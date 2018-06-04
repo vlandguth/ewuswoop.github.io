@@ -1,0 +1,90 @@
+{
+  "basics": {
+    "name": "Swoop",
+    "label": "EWU Mascot",
+    "picture": "",
+    "email": "swoop@ewu.edu",
+    "phone": "509-123-5678",
+    "website": "https://ewuswoop.com",
+    "summary": "Swoop, Eastern Washington University's mascot, is an ambassador, spirit leader, and fun-loving character for the University. A popular character among EWU fans, alumni, & students, he’s adored by all walks of life. His charm, attitude, and high-spirited personality combine to make up why he’s America’s Favorite Mascot.",
+    "location": {
+      "address": "207 Physical Education Building",
+      "postalCode": "WA 99004",
+      "city": " Cheney",
+      "countryCode": "US",
+      "region": "Washington"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "ewuswoop",
+        "url": "https://twitter.com/ewuswoop?lang=en"
+      },
+      {
+        "network": "FaceBook",
+        "username": "ewuswoop",
+        "url": "https://www.facebook.com/ewuswoop/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Eastern Washington Unviersity",
+      "position": "Mascot",
+      "website": "http:///ewu.edu",
+      "startDate": " Sept. 29, 1973",
+      "endDate": "Current",
+      "summary": " EWU has been a member of the Big Sky athletic conference since 1987; the school's mascot is Swoop and the school colors are red and white.",
+      "highlights": [
+        "In 1973, Eastern’s mascot became the Eagles. Shortly before that, the university’s board of trustees declared the “Savages” (the school’s mascot since 1923) unacceptable. ",
+        "The new mascot was originally known as Victor E. Eagle.",
+        "He appears much friendlier, too. Wherever he goes, Swoop now has a smile on his beak."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Crowd Engagement",
+      "level": "Master",
+      "keywords": [
+        "Big Sky Champ",
+        "Unparalleled Enthusiam",
+        "Go Eags!"
+      ]
+    },
+    {
+      "name": "Tradition",
+      "level": "Master",
+      "keywords": [
+        "1973 to Infiniity",
+        "Pride of Cheney, WA",
+        "100 appearances each year"
+      ]
+    },
+    {
+      "name": "Pride",
+      "level": "Master",
+      "keywords": [
+        "Swoop versus Youdee has more than 25,600 views!",
+        "Performers are EWU students receive scholarships",
+        "Swoop’s rendition of the Dougie is classic"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [
+    {
+      "name": "Steve Emtman",
+      "reference": "I may be Husky, but I was raised in Cheney, WA as an Eagle."
+    },
+    {
+      "name": "Todd McFarlane",
+      "reference": "I worked on Spiderman, Hulk, and Batman. I created Spawn. I wish I had created Swoop. "
+    }
+  ]
+}

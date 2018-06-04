@@ -1,0 +1,38 @@
+---
+title: EWU Swoop
+timezone: UTC
+collections:
+  events:
+    title: Events
+    output: true
+  posts:
+    title: Posts
+    output: true
+  rates:
+    title: Rates
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: default
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: default
+    permalink: pretty
+- scope:
+    path: ''
+    type: events
+  values:
+    event-date: 
+    is-paid: false
+    gallery:
+      image: 
+    layout: default
